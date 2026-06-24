@@ -69,7 +69,7 @@ export REMOTE_IPS
 export REMOTE_PORTS
 export RED GREEN YELLOW BLUE NC
 
-LIB_DIR="/usr/local/lib/protonvpn"
+LIB_DIR="."
 
 echo ""
 echo -e "${GREEN}[*] INFORMATION${NC}"
